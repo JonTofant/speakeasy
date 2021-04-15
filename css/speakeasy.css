@@ -1,4 +1,53 @@
-/*css for speakeasy*/
-body{
-  background-color: white;
+/*fonts*/
+.title{
+  font-size: 40px;
+}
+.subtitle{
+  font-size: 30px;
+}
+.text{
+  font-size: 12px;
+}
+/*boxes*/
+.titlebox{
+ display: flex;
+  justify-content: center;
+}
+.topbox{
+  display: flex;
+}
+.lefttopbox{
+  display: flex;
+  justify-content: flex-start;
+ flex-direction: column;
+  align-items: center;
+}
+.middletopbox{
+  display: flex;
+  justify-content: flex-start;
+ flex-direction: column;
+  align-items: center;
+}
+.righttopbox{
+  display: flex;
+  justify-content: flex-start;
+ flex-direction: column;
+  align-items: center;
+}
+/*dashes*/
+.topbox{
+  border-style:double;
+  border-width: thin;
+}
+.lefttopbox{
+  border-style: double;
+  border-width:thin;
+}
+.middletopbox{
+  border-style: double;
+  border-width:thin;
+}
+.righttopbox{
+  border-style: double;
+  border-width:thin;
 }
