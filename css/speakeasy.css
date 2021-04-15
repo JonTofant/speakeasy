@@ -5,6 +5,11 @@
 .subtitle{
   font-size: 30px;
 }
+.subtitle:hover{
+ color:red;
+  font-weight: bolder;
+  font-size: 32px;
+}
 .text{
   font-size: 12px;
 }
