@@ -40,14 +40,17 @@
   border-width: thin;
 }
 .lefttopbox{
+  width: 20%;
   border-style: double;
   border-width:thin;
 }
 .middletopbox{
   border-style: double;
   border-width:thin;
+  width: 60%;
 }
 .righttopbox{
   border-style: double;
   border-width:thin;
+  width: 20%;
 }
